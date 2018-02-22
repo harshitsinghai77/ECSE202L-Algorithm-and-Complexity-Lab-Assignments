@@ -1,12 +1,11 @@
 #  ECSE202L - Algorithm and Complexity Lab Assignments
 
-# ECSE202L - Algorithm and Complexity
 Implementation of various algorithms and data structures using Java
 
 # Language Used
 Java
 
-# Assignment
+# Assignments
 1) Linear Search and Binary Search
 2) Stack and Queue using Array
 3) Bubble sort, Selection sort and Insertion sort 
